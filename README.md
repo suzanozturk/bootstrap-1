@@ -1,7 +1,7 @@
 # Bootstrap İlk Ödev
 
 ## Bu ödev CSS ile daha önce tasarladığımız basit satış sitesinin bootstrap ile tekrar tasarlanmasıdır. 
-## Yapılanlar;
+### Yapılanlar;
 * HTML kısmı baştan yazılmıştır.
 * Menü koyu renkli olarak düzenlenmiştir.
 * Ana sayfaya bir jumbotron koyularak içeriğin açıklaması yazılmıştır.
