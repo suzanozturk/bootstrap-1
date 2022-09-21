@@ -1,0 +1,13 @@
+h1,h2,h3 {
+    color:rgb(101, 196, 183);
+    text-align: center;
+}
+
+ul {
+    list-style-position:inside; 
+}
+
+body {
+    background-color: #E9ECEF;
+    text-decoration:none
+}
